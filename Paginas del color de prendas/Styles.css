@@ -71,13 +71,19 @@ top: -30px;
     margin-left: 10px 20px;
     width: 200px;
 }
+
+/*clases*/
 .titulosprincipales{
     display: flex;
     align-items: stretch;
-    background-color: black;
-    border: 4px solid black;
+    background-color: rgba(0, 0, 0, 0.404);
+    border: 4px solid rgb(255, 255, 255);
     padding: 20px;
     margin: 20px;
+    text-decoration: none;
+}
+section h1, h2{
+    color: bisque;
 }
 
 
