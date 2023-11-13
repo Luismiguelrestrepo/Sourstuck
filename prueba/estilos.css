@@ -1,0 +1,19 @@
+.conjuntos{
+    border: 4px solid black;
+
+}
+
+
+.cuadro {
+    width: 300px; /* Ancho del cuadro */
+    height: 200px; /* Altura del cuadro */
+    border: 1px solid #ccc; /* Borde del cuadro */
+    overflow: hidden; /* Oculta cualquier contenido que sobresalga del cuadro */
+  }
+
+  /* Estilos para la imagen dentro del cuadro */
+  .cuadro img {
+    width: 100%; /* La imagen ocupa el 100% del ancho del cuadro */
+    height: auto; /* Altura automática para mantener la proporción original de la imagen */
+    display: block; /* Elimina el espacio extra debajo de la imagen */
+  }

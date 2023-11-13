@@ -3,6 +3,9 @@
     font-size: 55px;
    display: inline-block;
 }
+#body{
+border: 4px solid black;
+}
 
 .desplegable{
 position: relative;
