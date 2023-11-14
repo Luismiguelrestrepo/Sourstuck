@@ -86,8 +86,7 @@
     text-decoration: none;
     height: 430px;
     border-radius: 10px 20px 15px 5px;
-    top: 10px;
-    left: 10px;
+  
 }
 
 main h1,
@@ -103,7 +102,7 @@ main {height: 2000vh;
 }
 
 img {
-   
+    bottom: 40px;
 }
 
 .cajas {
