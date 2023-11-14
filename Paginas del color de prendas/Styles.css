@@ -90,7 +90,7 @@ main h1, h2{
 .cajas {
     align-items: center;
     display: flex;
-   
+    border-radius: 10px 20px 15px 5px;
   
 }
 main{background-color: black;}
