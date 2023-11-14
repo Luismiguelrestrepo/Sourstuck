@@ -81,7 +81,7 @@ top: -30px;
     padding: 20px;
     margin: 20px;
     text-decoration: none;
-    height: 100px;
+    height: 430px;
 }
 main h1, h2{
     color: bisque;
@@ -90,6 +90,7 @@ main h1, h2{
 .cajas {
     align-items: center;
     display: flex;
+    height: 450px;
   
 }
 main{background-color: black;}
