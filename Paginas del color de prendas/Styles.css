@@ -98,7 +98,7 @@ img{
 .cajas {
     align-items: center;
     display: flex;
-    
+    height: 400px;
 }
 main{background-color: black;}
 
