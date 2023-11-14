@@ -92,7 +92,10 @@ main h1, h2{
     top: 50px;
 }
 
-main{height: 80%;}
+main{ height: 100vh; 
+    padding: 20px; 
+    box-sizing: border-box;
+}
 
 img{
    
