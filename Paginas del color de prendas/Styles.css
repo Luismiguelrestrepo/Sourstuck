@@ -92,6 +92,8 @@ main h1, h2{
     top: 50px;
 }
 
+main{height: 80%;}
+
 img{
    
 }
@@ -99,6 +101,7 @@ img{
     align-items: center;
     display: flex;
     height: 400px;
+    margin: 20px;
 }
 main{background-color: black;}
 
