@@ -92,7 +92,7 @@ main h1, h2{
     top: 50px;
 }
 
-main{ height: 5000vh; 
+main{ height: 2000vh; 
     padding: 20px; 
     box-sizing: border-box;
 }
@@ -104,7 +104,7 @@ img{
     align-items: center;
     display: flex;
     height: 400px;
-    margin: 20px;
+    top: 30px;
 }
 main{background-color: black;}
 
