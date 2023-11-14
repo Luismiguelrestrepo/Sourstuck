@@ -93,7 +93,7 @@ main h1, h2{
 }
 
 img{
-    
+    object-fit: cover; 
     
 }
 .cajas {
