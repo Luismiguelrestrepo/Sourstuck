@@ -1,24 +1,26 @@
-#TituloDePagina{
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+#TituloDePagina {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 55px;
-   display: inline-block;
-}
-#body{
-border: 4px solid black;
+    display: inline-block;
 }
 
-.desplegable{
-position: relative;
-display: inline-block;
-left: 400px;
-top: -30px;
+#body {
+    border: 4px solid black;
 }
 
-#Fondomain{
+.desplegable {
+    position: relative;
+    display: inline-block;
+    left: 400px;
+    top: -30px;
+}
+
+#Fondomain {
     width: 100%;
     height: 100%;
 }
-#parrafo{
+
+#parrafo {
     max-width: 500px;
     font-family: sans-serif;
     display: flex;
@@ -29,39 +31,40 @@ top: -30px;
     display: inline-block;
 }
 
-#inicio{
+#inicio {
     background-color: rgb(12, 102, 138);
     color: rgb(255, 255, 255);
     cursor: pointer;
     background-color: black;
-    border:  4px solid darkgray;
+    border: 4px solid darkgray;
     padding: 10px;
     margin-left: 10px 20px;
     width: 200px;
 }
 
-#quienesomos{
+#quienesomos {
     background-color: rgb(12, 102, 138);
     color: rgb(255, 255, 255);
     cursor: pointer;
     background-color: black;
-    border:  4px solid darkgray;
+    border: 4px solid darkgray;
     padding: 10px;
     margin-left: 10px 20px;
     width: 200px;
 }
 
-#desplegablebtn{
+#desplegablebtn {
     background-color: rgb(12, 102, 138);
     color: rgb(255, 255, 255);
     cursor: pointer;
     background-color: black;
-    border:  4px solid darkgray;
+    border: 4px solid darkgray;
     padding: 10px;
     margin-left: 10px 20px;
     width: 200px;
 }
-#desplegablepantalon{
+
+#desplegablepantalon {
     background-color: rgb(12, 102, 138);
     color: rgb(255, 255, 255);
     cursor: pointer;
@@ -73,7 +76,7 @@ top: -30px;
 }
 
 /*clases*/
-.titulosprincipales{
+.titulosprincipales {
     display: flex;
     align-items: stretch;
     background-color: rgba(0, 0, 0, 0.404);
@@ -85,35 +88,40 @@ top: -30px;
     border-radius: 10px 20px 15px 5px;
     top: 10px;
     left: 10px;
-    border-top: 20px;
-    border-bottom: 100px;
 }
-main h1, h2{
+
+main h1,
+h2 {
     color: bisque;
     text-align: center;
     top: 50px;
 }
 
-main{ height: 2000vh; 
+main {height: 2000vh; 
     padding: 20px; 
     box-sizing: border-box;
 }
 
-img{
-   
+img {
+    bottom: 40px;
 }
+
 .cajas {
     align-items: center;
     display: flex;
     height: 400px;
     margin-top: 100px;
+    overflow: hidden;
 }
-main{background-color: black;}
+
+main {
+    background-color: black;
+}
 
 
 /*Desplegable Camisas*/
-.opciones{
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+.opciones {
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
     display: none;
     position: absolute;
     z-index: 1;
@@ -121,7 +129,7 @@ main{background-color: black;}
 }
 
 .opciones a {
-    
+
     padding: 12px 16px;
     text-decoration: none;
     display: block;
@@ -133,8 +141,8 @@ main{background-color: black;}
 
 /*Desplegable Pantalon*/
 
-.opcionespantalon{
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+.opcionespantalon {
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
     display: none;
     position: absolute;
     z-index: 1;
@@ -142,7 +150,7 @@ main{background-color: black;}
 }
 
 .opcionespantalon a {
-    
+
     text-decoration: none;
     display: block;
     padding: 12px 16px;
@@ -153,7 +161,7 @@ main{background-color: black;}
     background-color: rgb(255, 145, 2);
 }
 
-.colordesplegables{
+.colordesplegables {
     background-color: rgb(255, 255, 255);
     border: 4px solid black;
     color: rgb(0, 0, 0);
