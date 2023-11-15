@@ -110,7 +110,7 @@ img {
     display: flex;
     height: 400px;
   margin-top: 100px;
-  
+  padding: 400px;
 }
 
 main {
