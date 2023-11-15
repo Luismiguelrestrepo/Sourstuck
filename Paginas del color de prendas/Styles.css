@@ -75,6 +75,10 @@
     width: 200px;
 }
 
+.titulosH2{
+    top: -30px;
+}
+
 /*clases*/
 .titulosprincipales {
     display: flex;
