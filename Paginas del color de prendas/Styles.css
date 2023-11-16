@@ -76,7 +76,8 @@
 }
 
 .titulosH2{
-    bottom: 100px;
+   margin-top: -30px;
+   margin-left: 70px;
 }
 
 /*clases*/
@@ -107,9 +108,9 @@ main {height: 2000vh;
     box-sizing: border-box;
 }
 
-img {
-    margin-top: 40px;
-    margin-right: 50px;
+.img {
+    margin-top: 60px;
+    margin-right: 1000px;
 }
 
 .cajas {
