@@ -80,7 +80,8 @@ main{
     margin-bottom: 3000px;
 }
 
-footer{ background-color: aqua;}
+footer{ background-color: aqua;
+border: 5px solid gold;}
 
 /*Desplegable Camisas*/
 .opciones {
