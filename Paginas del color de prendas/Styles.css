@@ -75,11 +75,12 @@
     width: 200px;
 }
 
-main {
+main{
     background-color: black;
     margin-bottom: 3000px;
 }
 
+footer{ background-color: aqua;}
 
 /*Desplegable Camisas*/
 .opciones {
