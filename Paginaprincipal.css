@@ -4,7 +4,7 @@ h2{color: bisque;}
     border: 4px solid white;
     border-radius: 10px;
     max-width: 400px;
-    right: 500px;
+    margin: 20px;
 }
 
 .contenido{
