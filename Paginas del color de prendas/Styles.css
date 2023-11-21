@@ -113,12 +113,22 @@ main {height: 2000vh;
     margin-right: 1000px;
 }
 
+.subcajas{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
 .cajas {
     align-items: center;
     display: flex;
     height: 400px;
     margin-top: 190px;
   text-align: center;
+}
+
+.caja{
+    border: 4px solid white;
+    border-radius: 10pxs;
 }
 
 main {
