@@ -16,3 +16,4 @@ document.getElementById("desplegablepantalon").addEventListener("click", functio
   }
 });
 
+alert("Esta es una pagina en progreso si tienes alguna recomendacion, queja o felicitaciones dejame saberlo en nuestro buzon.")
