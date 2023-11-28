@@ -35,6 +35,10 @@ main h1 {
 }
 
 /*footer*/
+
+footer i{
+    top: 10px;
+}
 footer h1{
     color: bisque;
     font-family: 'Shrikhand', serif;
