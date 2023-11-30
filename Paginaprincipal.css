@@ -68,7 +68,7 @@ footer li{
     line-height: 80px;
     transition: .5s;
     padding-right: 14px;
-    top: 10px;
+    position: relative;
 }
 
 footer a {
